@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import 'rbx/index.css';
 import {Button, Container, Message, Title} from 'rbx';
 import firebase from "firebase/app";
-import db from "./components/firebase";
+import db from "./components/firebase.js";
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 import CourseList from './components/CourseList';
 
