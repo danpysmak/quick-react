@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^7.4.0",
     "rbx": "^2.2.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -31,5 +32,10 @@
   },
   "devDependencies": {
     "typescript": "^3.6.4"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
